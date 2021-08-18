@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mihirkr
 - 👀 I’m interested in Machine Learning, Deep Learning
 - 🌱 I’m currently learning Computer Vision, NLP
-- 💞️ I’m looking to collaborate on Object Detection
+- 💞️ I’m looking to collaborate on NLP, Computer Vision, Time Series related projects
 - 📫 How to reach me ...
 
 <!---
